@@ -1,0 +1,6 @@
+framework module Pods_OnlineDoc {
+  umbrella header "Pods-OnlineDoc-umbrella.h"
+
+  export *
+  module * { export * }
+}

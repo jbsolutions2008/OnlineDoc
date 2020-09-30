@@ -1,0 +1,99 @@
+PODS:
+  - Alamofire (4.9.1)
+  - IQKeyboardManagerSwift (6.5.4)
+  - Locksmith (4.0.0)
+  - MaterialComponents/AnimationTiming (107.2.0)
+  - MaterialComponents/Availability (107.2.0)
+  - MaterialComponents/Buttons (107.2.0):
+    - MaterialComponents/Elevation
+    - MaterialComponents/Ink
+    - MaterialComponents/private/Math
+    - MaterialComponents/Ripple
+    - MaterialComponents/ShadowElevations
+    - MaterialComponents/ShadowLayer
+    - MaterialComponents/Shapes
+    - MaterialComponents/Typography
+    - MDFInternationalization
+    - MDFTextAccessibility
+  - MaterialComponents/Elevation (107.2.0):
+    - MaterialComponents/Availability
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/Ink (107.2.0):
+    - MaterialComponents/Availability
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/Palettes (107.2.0)
+  - MaterialComponents/private/Application (107.2.0)
+  - MaterialComponents/private/Color (107.2.0):
+    - MaterialComponents/Availability
+  - MaterialComponents/private/Math (107.2.0)
+  - MaterialComponents/Ripple (107.2.0):
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/ShadowElevations (107.2.0)
+  - MaterialComponents/ShadowLayer (107.2.0):
+    - MaterialComponents/ShadowElevations
+  - MaterialComponents/Shapes (107.2.0):
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+    - MaterialComponents/ShadowLayer
+  - MaterialComponents/TextFields (107.2.0):
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/Buttons
+    - MaterialComponents/Elevation
+    - MaterialComponents/Palettes
+    - MaterialComponents/private/Math
+    - MaterialComponents/Typography
+    - MDFInternationalization
+  - MaterialComponents/Typography (107.2.0):
+    - MaterialComponents/private/Application
+    - MaterialComponents/private/Math
+  - MDFInternationalization (2.0.0)
+  - MDFTextAccessibility (2.0.0)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - ReachabilitySwift (5.0.0)
+  - SideMenu (6.4.8)
+  - Stripe (19.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - Locksmith
+  - MaterialComponents/TextFields
+  - NVActivityIndicatorView
+  - ReachabilitySwift
+  - SideMenu
+  - Stripe
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - Locksmith
+    - MaterialComponents
+    - MDFInternationalization
+    - MDFTextAccessibility
+    - NVActivityIndicatorView
+    - ReachabilitySwift
+    - SideMenu
+    - Stripe
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  IQKeyboardManagerSwift: 2dde0fc70110e8eac7ccce2a46fdbec6a850b414
+  Locksmith: e9bebbaaa4cee3c511bc358a44f843c3fe00e21f
+  MaterialComponents: 4dd1927cd2257e564983018906e152d18cda0c03
+  MDFInternationalization: 010097556d6b09d2c4ea38e0820ea6d37be6a314
+  MDFTextAccessibility: 85c09a1bd9c321f494348e632a25063bcda35a53
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SideMenu: 4a891be552d30bb6fa87ad404d62e485f8450c34
+  Stripe: 5afd38a520f7a1a16b609127165d517fa9f7de32
+
+PODFILE CHECKSUM: 61ec6e9569416572d3b48e489bbbd640b3be2e22
+
+COCOAPODS: 1.9.1
