@@ -269,6 +269,7 @@ class SignupVC: UIViewController {
             currentSelection = selectionType.country.rawValue
             RDGlobalFunction.showPickerSelection(delegate: self, type: selectionType.country, datasource: [])
         } else {
+           
             currentSelection = selectionType.gender.rawValue
             btnGender.isSelected = true
             RDGlobalFunction.showPickerSelection(delegate: self, type: selectionType.gender, datasource: [])
